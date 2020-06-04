@@ -10,4 +10,4 @@ Dependencies:
 
 1. numpy
 2. matplotlib
-3. pytorch 
+3. pytorch 0.4.1 (cuda enabled)
